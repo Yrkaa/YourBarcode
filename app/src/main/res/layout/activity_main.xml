@@ -9,7 +9,7 @@
     <EditText
         android:id="@+id/barcode_text_et"
         android:layout_width="300dp"
-        android:layout_height="30dp"
+        android:layout_height="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
