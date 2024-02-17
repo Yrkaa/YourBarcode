@@ -10,6 +10,8 @@
         android:id="@+id/barcode_text_et"
         android:layout_width="300dp"
         android:layout_height="50dp"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#03A9F4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
